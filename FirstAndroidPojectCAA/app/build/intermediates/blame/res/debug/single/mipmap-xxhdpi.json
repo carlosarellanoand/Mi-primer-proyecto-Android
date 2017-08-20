@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\CursoAndroidApps\\FirstAndroidPojectCAA\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "F:\\CursoAndroidApps\\FirstAndroidPojectCAA\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\CursoAndroidApps\\FirstAndroidPojectCAA\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "F:\\CursoAndroidApps\\FirstAndroidPojectCAA\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
